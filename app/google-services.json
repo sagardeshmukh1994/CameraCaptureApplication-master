@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "219290705785",
+    "firebase_url": "https://testapp2-5d223.firebaseio.com",
+    "project_id": "testapp2-5d223",
+    "storage_bucket": "testapp2-5d223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219290705785:android:66200a2eefbe970e",
+        "android_client_info": {
+          "package_name": "in.datasciencetech.cameracaptureapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219290705785-asrnm8ihd7bfch3dfv1jk8fnffhos636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmqS969enfY7S8jNqnMZjFmnSJQJWsHpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
